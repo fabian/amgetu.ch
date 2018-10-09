@@ -10,6 +10,7 @@ jobs:
     steps:
       - checkout
       - add_ssh_keys
+      - run: npm install
       - run: hugo
       - deploy:
           command: |
