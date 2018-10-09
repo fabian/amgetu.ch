@@ -1,6 +1,21 @@
 ---
 version: 2
 jobs:
+  static:
+    docker:
+      - image: node:10
+    branches:
+      only:
+        - master
+    steps:
+      - checkout
+      - attach_workspace:
+          at: ~/project
+      - run: npm install
+      - run: npm run build
+      - persist_to_workspace:
+          root: .
+          paths: static/
   build:
     docker:
       - image: cibuilds/hugo
@@ -10,9 +25,19 @@ jobs:
     steps:
       - checkout
       - add_ssh_keys
-      - run: npm install
+      - attach_workspace:
+          at: ~/project
       - run: hugo
       - deploy:
           command: |
             echo 'cloud-vogler-07.nine.ch ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDlwuYlYQrXqev3g/E+rXL07scLXOLl2P3agNDsmwfT45OTeYx4hnxDyzy1oUytdW0U3seGW3WpKyYdchpILxB29hgviVlVoNbtoanGwoz9AGEKTQZgGiWrOsZ7mlxfDIj2nSgTPubkUFL4oOQVsNupBLnJgVtyIKTW14FipOYdjNZ8sltAdsZXoCDPiPtnqH7Bw4ysbpLZNXlhNgT92rCKSDYfpv+D6YQFKlNKZAih70mgNfqvnNljxXWW3BOyHS+iPWWbfHsRTCtpmLODzUusF6n/CU/EkK/5D1YggDel7jjgDEtdZB1iUmNpgh1qNbCJyAv0n3dP3dCgSKCsbnKT' >> ~/.ssh/known_hosts
             rsync -avz --delete public/ debian@cloud-vogler-07.nine.ch:/var/www/amgetu/2019
+
+workflows:
+  version: 2
+  build_and_deploy:
+    jobs:
+      - static
+      - build:
+          requires:
+            - static
