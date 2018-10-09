@@ -1,0 +1,99 @@
+$grid-gutter-width: 60px;
+$navbar-padding-x: 30px;
+$navbar-dark-color: #fff;
+$navbar-dark-hover-color: #fff;
+$navbar-dark-active-color: rgba(#fff, .5);
+
+$font-family-sans-serif: "museo-sans", sans-serif;
+$font-weight-normal: 300;
+$font-weight-bold: 500;
+
+$headings-font-family: "museo", sans-serif;
+$headings-font-weight: 500;
+
+$primary: #2381C9;
+
+@import "../../node_modules/bootstrap/scss/bootstrap";
+
+.navbar {
+  z-index: 3;
+}
+
+.navbar-dark .navbar-brand {
+  margin-right: 15px;
+  color: #fff;
+  z-index: 1000;
+}
+
+.nav-link:focus,
+.nav-link:hover {
+  text-decoration: underline;
+}
+
+h1 {
+  color: $primary;
+}
+
+h1 img {
+  @include img-fluid;
+  margin-bottom: $spacer * 1.5;
+}
+
+p {
+  max-width: 36rem;
+}
+
+.text-museo {
+  font-family: "museo", sans-serif;
+}
+
+.timetable-entry {
+  margin-bottom: $spacer * 0.5;
+}
+
+footer {
+  background-color: $light;
+}
+
+.page-kind-home {
+  background-color: $primary;
+  color: $white;
+  margin-top: $spacer * 3;
+
+  a {
+    color: $white;
+  }
+
+  .navbar {
+    display: none;
+  }
+
+  @include media-breakpoint-up(lg) {
+    main {
+      margin-bottom: $spacer * 6;
+    }
+  }
+
+  @include media-breakpoint-up(xl) {
+    main {
+      margin-bottom: $spacer * 9;
+    }
+  }
+
+  footer {
+    background-color: $primary;
+    margin-top: 0 !important;
+
+    h2 {
+      display: none;
+    }
+  }
+}
+
+#map {
+  position: absolute;
+  left: 0;
+  top: 56px;
+  bottom: 0;
+  width: 100%;
+}

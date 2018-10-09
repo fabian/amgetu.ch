@@ -1,0 +1,27 @@
+baseURL = "https://amgetu.ch/"
+title = "Aargauermeisterschaft Geräteturnen 2019"
+
+[[menu.main]]
+    name = "Lageplan"
+    url = "/lageplan/"
+    weight = 1
+
+[[menu.main]]
+    name = "Zeitplan"
+    url = "/zeitplan/"
+    weight = 2
+
+[[menu.main]]
+    name = "Ranglisten"
+    url = "/ranglisten/"
+    weight = 3
+
+[[menu.main]]
+    name = "Fotos"
+    url = "/fotos/"
+    weight = 4
+
+[[menu.main]]
+    name = "Über uns"
+    url = "/ueber/"
+    weight = 5
