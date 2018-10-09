@@ -8,6 +8,8 @@ jobs:
       only:
         - master
     steps:
+      - checkout
+      - add_ssh_keys
       - run: hugo
       - deploy:
           command: rsync -avz --delete public/ debian@cloud-vogler-07.nine.ch:/var/www/amgetu/2019
