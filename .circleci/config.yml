@@ -1,0 +1,12 @@
+---
+version: 2
+jobs:
+  build:
+    docker:
+      - image: cibuilds/hugo
+    branches:
+      only:
+        - master
+    steps:
+      - run: hugo
+      - deploy: rsync -avz --delete public/ debian@cloud-vogler-07.nine.ch:/var/www/amgetu/2019
