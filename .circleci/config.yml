@@ -4,9 +4,6 @@ jobs:
   static:
     docker:
       - image: node:10
-    branches:
-      only:
-        - master
     steps:
       - checkout
       - attach_workspace:
@@ -19,9 +16,6 @@ jobs:
   build:
     docker:
       - image: cibuilds/hugo
-    branches:
-      only:
-        - master
     steps:
       - checkout
       - add_ssh_keys
@@ -37,7 +31,13 @@ workflows:
   version: 2
   build_and_deploy:
     jobs:
-      - static
+      - static:
+          filters:
+            branches:
+              only: master
       - build:
           requires:
             - static
+          filters:
+            branches:
+              only: master
