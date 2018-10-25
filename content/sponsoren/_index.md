@@ -4,10 +4,11 @@ title: Sponsoren
 
 # Sponsoren
 
-Damit der Anlass auch im nächsten Jahr wieder ein voller Erfolg wird, sind wir auf Unterstützung von Sponsoren und Gönnern angewiesen. Im Sponsorendossier finden sich detaillierte Informationen über den Anlass und die attraktiven Werbemöglichkeiten.
+Damit der Anlass auch im nächsten Jahr wieder ein voller Erfolg wird, sind wir auf Unterstützung von Sponsoren und Gönnern angewiesen. Im Sponsoring-Dossier finden sich detaillierte Informationen über den Anlass und die attraktiven Werbemöglichkeiten.
 
-<a href="/docs/AMGETU-Sponsoring-2019.pdf" target="_blank">Sponsorendossier (PDF, 2.9 MB)</a>
+<a href="/docs/AMGETU-Sponsoring-2019.pdf" target="_blank">Sponsoring-Dossier (PDF, 2.9 MB)</a>
 
+<a href="https://amgetu.ch/sponsoring/" target="_blank" class="btn btn-primary">Anmeldung Sponsoring</a>
 
 <h2 class="h6 mt-5 font-weight-normal">Hauptsponsoren</h5>
 
