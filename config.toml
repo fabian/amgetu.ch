@@ -13,16 +13,21 @@ canonifyURLs = true
     weight = 2
 
 [[menu.main]]
+    name = "Sponsoren"
+    url = "/sponsoren/"
+    weight = 3
+
+[[menu.main]]
     name = "Ranglisten"
     url = "/ranglisten/"
-    weight = 3
+    weight = 4
 
 [[menu.main]]
     name = "Fotos"
     url = "/fotos/"
-    weight = 4
+    weight = 5
 
 [[menu.main]]
     name = "Über uns"
     url = "/ueber/"
-    weight = 5
+    weight = 6
