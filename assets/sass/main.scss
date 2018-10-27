@@ -90,6 +90,13 @@ footer {
   }
 }
 
+.home-photo {
+
+  @include media-breakpoint-up(xl) {
+    position: absolute;
+  }
+}
+
 #map {
   position: absolute;
   left: 0;
