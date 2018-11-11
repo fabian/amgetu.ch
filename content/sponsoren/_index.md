@@ -13,9 +13,9 @@ Damit der Anlass auch im nächsten Jahr wieder ein voller Erfolg wird, sind wir
 <h2 class="h6 mt-5 font-weight-normal">Hauptsponsoren</h5>
 
 <div>
-  <svg width="400" height="200" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 200" preserveAspectRatio="none" class="d-inline-block img-fluid mr-3 mb-3">
-    <g><rect width="400" height="200" fill="#f0f1f2"></rect></g>
-  </svg>
+  <a href="http://www.reap.ch/" target="_blank" class="d-inline-block mr-3 mb-3">
+    <img src="/img/sponsoring/reap.png" width="400" height="200" class="img-fluid">
+  </a>
   <svg width="400" height="200" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 200" preserveAspectRatio="none" class="d-inline-block img-fluid mr-3 mb-3">
     <g><rect width="400" height="200" fill="#f0f1f2"></rect></g>
   </svg>
