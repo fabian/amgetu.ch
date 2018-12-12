@@ -16,43 +16,64 @@ Damit der Anlass auch im nächsten Jahr wieder ein voller Erfolg wird, sind wir
   <a href="http://www.reap.ch/" target="_blank" class="d-inline-block mr-3 mb-3">
     <img src="/img/sponsoring/reap.png" width="400" height="200" class="img-fluid">
   </a>
-  <svg width="400" height="200" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 200" preserveAspectRatio="none" class="d-inline-block img-fluid mr-3 mb-3">
-    <g><rect width="400" height="200" fill="#f0f1f2"></rect></g>
-  </svg>
 </div>
 
 
 <h2 class="h6 mt-5 font-weight-normal">Kategoriensponsoren</h5>
 
 <div>
-  <svg width="300" height="150" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 150" preserveAspectRatio="none" class="d-inline-block img-fluid mr-3 mb-3">
-    <g><rect width="300" height="150" fill="#f0f1f2"></rect></g>
-  </svg>
-  <svg width="300" height="150" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 150" preserveAspectRatio="none" class="d-inline-block img-fluid mr-3 mb-3">
-    <g><rect width="300" height="150" fill="#f0f1f2"></rect></g>
-  </svg>
-  <svg width="300" height="150" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 150" preserveAspectRatio="none" class="d-inline-block img-fluid mr-3 mb-3">
-    <g><rect width="300" height="150" fill="#f0f1f2"></rect></g>
-  </svg>
+  <a href="https://frees.ch/" target="_blank" class="d-inline-block mr-3 mb-3">
+    <img src="/img/sponsoring/frees.jpg" width="300" height="150" class="img-fluid">
+  </a>
+  <a href="http://veranstaltungstechnik.ch/" target="_blank" class="d-inline-block mr-3 mb-3">
+    <img src="/img/sponsoring/megatron.jpg" width="300" height="150" class="img-fluid">
+  </a>
+  <a href="http://mueli-kafi.ch/" target="_blank" class="d-inline-block mr-3 mb-3">
+    <img src="/img/sponsoring/mueli.png" width="300" height="150" class="img-fluid">
+  </a>
+  <a href="https://pomcanys.ch/" target="_blank" class="d-inline-block mr-3 mb-3">
+    <img src="/img/sponsoring/pomcanys.png" width="300" height="150" class="img-fluid">
+  </a>
 </div>
 
 
 <h2 class="h6 mt-5 font-weight-normal">Inserenten</h5>
 
 <div>
-  <svg width="200" height="100" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 100" preserveAspectRatio="none" class="d-inline-block img-fluid mr-3 mb-3">
-    <g><rect width="200" height="100" fill="#f0f1f2"></rect></g>
-  </svg>
-  <svg width="200" height="100" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 100" preserveAspectRatio="none" class="d-inline-block img-fluid mr-3 mb-3">
-    <g><rect width="200" height="100" fill="#f0f1f2"></rect></g>
-  </svg>
-  <svg width="200" height="100" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 100" preserveAspectRatio="none" class="d-inline-block img-fluid mr-3 mb-3">
-    <g><rect width="200" height="100" fill="#f0f1f2"></rect></g>
-  </svg>
-  <svg width="200" height="100" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 100" preserveAspectRatio="none" class="d-inline-block img-fluid mr-3 mb-3">
-    <g><rect width="200" height="100" fill="#f0f1f2"></rect></g>
-  </svg>
-  <svg width="200" height="100" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 100" preserveAspectRatio="none" class="d-inline-block img-fluid mr-3 mb-3">
-    <g><rect width="200" height="100" fill="#f0f1f2"></rect></g>
-  </svg>
+  <a href="http://www.calmart.ch/" target="_blank" class="d-inline-block mr-3 mb-3">
+    <img src="/img/sponsoring/calmart.png" width="200" height="100" class="img-fluid">
+  </a>
+  <a href="https://egloff-gartendesign.ch/" target="_blank" class="d-inline-block mr-3 mb-3">
+    <img src="/img/sponsoring/egloff.png" width="200" height="100" class="img-fluid">
+  </a>
+  <a href="http://www.filexis.ch/" target="_blank" class="d-inline-block mr-3 mb-3">
+    <img src="/img/sponsoring/filexis.png" width="200" height="100" class="img-fluid">
+  </a>
+  <a href="http://www.dachbaugehring.ch/" target="_blank" class="d-inline-block mr-3 mb-3">
+    <img src="/img/sponsoring/gehring.png" width="200" height="100" class="img-fluid">
+  </a>
+  <a href="http://elektro-imboden.ch/" target="_blank" class="d-inline-block mr-3 mb-3">
+    <img src="/img/sponsoring/imboden.png" width="200" height="100" class="img-fluid">
+  </a>
+  <a href="https://www.raiffeisen.ch/" target="_blank" class="d-inline-block mr-3 mb-3">
+    <img src="/img/sponsoring/raiffeisen.png" width="200" height="100" class="img-fluid">
+  </a>
+  <a href="https://mojuro.ch/" target="_blank" class="d-inline-block mr-3 mb-3">
+    <img src="/img/sponsoring/mojuro.png" width="200" height="100" class="img-fluid">
+  </a>
+  <a href="http://www.coiffuretrendline.ch/" target="_blank" class="d-inline-block mr-3 mb-3">
+    <img src="/img/sponsoring/trendline.png" width="200" height="100" class="img-fluid">
+  </a>
+  <a href="https://www.sawema.ch/" target="_blank" class="d-inline-block mr-3 mb-3">
+    <img src="/img/sponsoring/sawema.png" width="200" height="100" class="img-fluid">
+  </a>
+  <a href="https://www.schuppisser.ch/" target="_blank" class="d-inline-block mr-3 mb-3">
+    <img src="/img/sponsoring/schuppisser.png" width="200" height="100" class="img-fluid">
+  </a>
+  <a href="https://vogler-bauleitungen.ch/" target="_blank" class="d-inline-block mr-3 mb-3">
+    <img src="/img/sponsoring/vogler.png" width="200" height="100" class="img-fluid">
+  </a>
+  <a href="https://www.zebragartenbau.ch" target="_blank" class="d-inline-block mr-3 mb-3">
+    <img src="/img/sponsoring/zebra.png" width="200" height="100" class="img-fluid">
+  </a>
 </div>
