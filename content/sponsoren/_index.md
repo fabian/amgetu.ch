@@ -22,6 +22,9 @@ Damit der Anlass auch im nächsten Jahr wieder ein voller Erfolg wird, sind wir
 <h2 class="h6 mt-5 font-weight-normal">Kategoriensponsoren</h5>
 
 <div>
+  <a href="https://www.aew.ch/" target="_blank" class="d-inline-block mr-3 mb-3">
+    <img src="/img/sponsoring/aew.png" width="300" height="150" class="img-fluid">
+  </a>
   <a href="https://frees.ch/" target="_blank" class="d-inline-block mr-3 mb-3">
     <img src="/img/sponsoring/frees.jpg" width="300" height="150" class="img-fluid">
   </a>
