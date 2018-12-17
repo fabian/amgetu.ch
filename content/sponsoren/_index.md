@@ -29,7 +29,7 @@ Damit der Anlass auch im nächsten Jahr wieder ein voller Erfolg wird, sind wir
     <img src="/img/sponsoring/megatron.jpg" width="300" height="150" class="img-fluid">
   </a>
   <a href="http://mueli-kafi.ch/" target="_blank" class="d-inline-block mr-3 mb-3">
-    <img src="/img/sponsoring/mueli.png" width="300" height="150" class="img-fluid">
+    <img src="/img/sponsoring/mueli.jpg" width="300" height="150" class="img-fluid">
   </a>
   <a href="https://pomcanys.ch/" target="_blank" class="d-inline-block mr-3 mb-3">
     <img src="/img/sponsoring/pomcanys.png" width="300" height="150" class="img-fluid">
