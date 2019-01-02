@@ -61,6 +61,9 @@ Damit der Anlass auch im nächsten Jahr wieder ein voller Erfolg wird, sind wir
   <a href="https://www.raiffeisen.ch/" target="_blank" class="d-inline-block mr-3 mb-3">
     <img src="/img/sponsoring/raiffeisen.png" width="200" height="100" class="img-fluid">
   </a>
+  <a href="http://www.lernvilla.ch/" target="_blank" class="d-inline-block mr-3 mb-3">
+    <img src="/img/sponsoring/lernvilla.jpg" width="200" height="100" class="img-fluid">
+  </a>
   <a href="https://mojuro.ch/" target="_blank" class="d-inline-block mr-3 mb-3">
     <img src="/img/sponsoring/mojuro.png" width="200" height="100" class="img-fluid">
   </a>
