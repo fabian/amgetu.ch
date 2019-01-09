@@ -1,3 +1,6 @@
+---
+aliases: [/q/]
+---
 
 # ![Aargauermeisterschaft Geräteturnen 18. und 19. Mai 2019 Niederrohrdorf](img/AGM_Logo_white.svg)
 
