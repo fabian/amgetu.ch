@@ -22,3 +22,5 @@ Das Organisationskomitee besteht aus motivierten Mitgliedern des Turnvereins Nie
 - Manuel Schenk: Anlassverantwortlicher ATV
 
 Bei Fragen, Anregungen und Rückmeldungen kannst du uns via [amgetu@tvniederrohrdorf.ch](mailto:amgetu@tvniederrohrdorf.ch) erreichen.
+
+Du findest uns auch auf <a href="https://www.instagram.com/amgetu2019niederrohrdorf/" target="_blank">Instagram</a> und <a href="https://www.facebook.com/AMGetu-2019-293752614577930/" target="_blank">Facebook</a>.
