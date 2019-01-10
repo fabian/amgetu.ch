@@ -95,6 +95,11 @@ footer {
   @include media-breakpoint-up(xl) {
     position: absolute;
   }
+
+  @media (min-width: 1400px) {
+    width: 480px;
+    height: auto;
+  }
 }
 
 #map {
