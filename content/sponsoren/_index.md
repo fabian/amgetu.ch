@@ -88,6 +88,9 @@ Damit der Anlass auch im nächsten Jahr wieder ein voller Erfolg wird, sind wir
   <a href="https://www.schuppisser.ch/" target="_blank" class="d-inline-block mr-4 mb-3">
     <img src="/img/sponsoring/schuppisser.png" width="200" height="100" class="img-fluid">
   </a>
+    <a href="https://www.velo-franz.ch/" target="_blank" class="d-inline-block mr-4 mb-3">
+      <img src="/img/sponsoring/velofranz.png" width="200" height="100" class="img-fluid">
+    </a>
   <a href="https://vogler-bauleitungen.ch/" target="_blank" class="d-inline-block mr-4 mb-3">
     <img src="/img/sponsoring/vogler.png" width="200" height="100" class="img-fluid">
   </a>
