@@ -3,11 +3,6 @@ title = "Aargauermeisterschaft Geräteturnen 2019"
 canonifyURLs = true
 
 [[menu.main]]
-    name = "Anmeldung"
-    url = "/anmeldung/"
-    weight = 1
-
-[[menu.main]]
     name = "Lageplan"
     url = "/lageplan/"
     weight = 2
