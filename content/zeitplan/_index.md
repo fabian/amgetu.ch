@@ -10,6 +10,8 @@ Der Zeitplan wird ergänzt, sobald dieser definitiv ist.
 
 <br/>
 
+K1 – K3
+
 <div class="row timetable-entry">
   <div class="col-2 col-sm-1">
     -&nbsp;:&nbsp;-
@@ -48,6 +50,8 @@ Der Zeitplan wird ergänzt, sobald dieser definitiv ist.
 ## Sonntag, 19. Mai 2019
 
 <br/>
+
+K4 – K7, KH
 
 <div class="row timetable-entry">
   <div class="col-2 col-sm-1">
