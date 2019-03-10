@@ -12,6 +12,9 @@ Wir bedanken uns bei all unseren Sponsoren, Inserenten und Gönnern! Sie ermögl
   <a href="http://www.reap.ch/" target="_blank" class="d-inline-block mr-4 mb-3">
     <img src="/img/sponsoring/reap.png" width="400" height="200" class="img-fluid">
   </a>
+  <a href="https://www.grandcasinobaden.ch/" target="_blank" class="d-inline-block mr-4 mb-3">
+    <img src="/img/sponsoring/gc.png" width="400" height="200" class="img-fluid">
+  </a>
 </div>
 
 
@@ -27,11 +30,17 @@ Wir bedanken uns bei all unseren Sponsoren, Inserenten und Gönnern! Sie ermögl
   <a href="http://veranstaltungstechnik.ch/" target="_blank" class="d-inline-block mr-4 mb-3">
     <img src="/img/sponsoring/megatron.jpg" width="300" height="150" class="img-fluid">
   </a>
+  <a href="http://www.aargauer-turnverband.ch/atv/turnveteranen.html" target="_blank" class="d-inline-block mr-4 mb-3">
+    <img src="/img/sponsoring/atvv_baden.png" width="300" height="150" class="img-fluid">
+  </a>
   <a href="http://mueli-kafi.ch/" target="_blank" class="d-inline-block mr-4 mb-3">
     <img src="/img/sponsoring/mueli.jpg" width="300" height="150" class="img-fluid">
   </a>
   <a href="https://pomcanys.ch/" target="_blank" class="d-inline-block mr-4 mb-3">
     <img src="/img/sponsoring/pomcanys.png" width="300" height="150" class="img-fluid">
+  </a>
+  <a href="http://www.aargauer-turnverband.ch/atv/turnveteranen.html" target="_blank" class="d-inline-block mr-4 mb-3">
+    <img src="/img/sponsoring/atvv.png" width="300" height="150" class="img-fluid">
   </a>
 </div>
 
