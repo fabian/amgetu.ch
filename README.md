@@ -1,4 +1,3 @@
 ```
-hugo server
-npm run build
+docker-compose up
 ```
