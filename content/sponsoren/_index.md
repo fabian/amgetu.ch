@@ -94,6 +94,9 @@ Damit der Anlass auch im nächsten Jahr wieder ein voller Erfolg wird, sind wir
   <a href="https://www.sawema.ch/" target="_blank" class="d-inline-block mr-4 mb-3">
     <img src="/img/sponsoring/sawema.png" width="200" height="100" class="img-fluid">
   </a>
+  <a href="http://www.schoop.com/" target="_blank" class="d-inline-block mr-4 mb-3">
+    <img src="/img/sponsoring/schoop.jpg" width="200" height="100" class="img-fluid">
+  </a>
   <a href="https://www.schuppisser.ch/" target="_blank" class="d-inline-block mr-4 mb-3">
     <img src="/img/sponsoring/schuppisser.png" width="200" height="100" class="img-fluid">
   </a>
