@@ -43,6 +43,9 @@ Damit der Anlass auch im nächsten Jahr wieder ein voller Erfolg wird, sind wir
 <h2 class="h6 mt-5 font-weight-normal">Inserenten</h5>
 
 <div>
+  <a href="https://www.bako-ag.com/" target="_blank" class="d-inline-block mr-4 mb-3">
+    <img src="/img/sponsoring/bako.jpg" width="200" height="100" class="img-fluid">
+  </a>
   <a href="http://www.buechi-fischer.ch/" target="_blank" class="d-inline-block mr-4 mb-3">
     <img src="/img/sponsoring/buechifischer.jpg" width="200" height="100" class="img-fluid">
   </a>
