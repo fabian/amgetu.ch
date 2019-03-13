@@ -67,6 +67,9 @@ Damit der Anlass auch im nächsten Jahr wieder ein voller Erfolg wird, sind wir
   <a href="http://elektro-imboden.ch/" target="_blank" class="d-inline-block mr-4 mb-3">
     <img src="/img/sponsoring/imboden.png" width="200" height="100" class="img-fluid">
   </a>
+  <a href="http://insideshop.ch/" target="_blank" class="d-inline-block mr-4 mb-3">
+    <img src="/img/sponsoring/inside.png" width="200" height="100" class="img-fluid">
+  </a>
   <a href="https://www.raiffeisen.ch/" target="_blank" class="d-inline-block mr-4 mb-3">
     <img src="/img/sponsoring/raiffeisen.png" width="200" height="100" class="img-fluid">
   </a>
