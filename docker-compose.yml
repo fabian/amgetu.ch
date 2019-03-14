@@ -14,4 +14,4 @@ services:
     ports:
       - "1313:1313"
     volumes:
-      - .:/srv/hugo/
+      - .:/root/
