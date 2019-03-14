@@ -1,4 +1,4 @@
-FROM node:10.15 AS npm
+FROM node:10.15 AS build
 
 WORKDIR /root/
 
@@ -15,6 +15,6 @@ RUN npm run build
 
 FROM yanqd0/hugo
 
-COPY --from=npm /root/static/ ./static/
+COPY --from=build /root/static/ ./static/
 
 COPY . .
