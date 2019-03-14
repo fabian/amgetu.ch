@@ -4,11 +4,7 @@ title: Sponsoren
 
 # Sponsoren
 
-Damit der Anlass auch im nächsten Jahr wieder ein voller Erfolg wird, sind wir auf Unterstützung von Sponsoren und Gönnern angewiesen. Im Sponsoring-Dossier finden sich detaillierte Informationen über den Anlass und die attraktiven Werbemöglichkeiten.
-
-<a href="/docs/AMGETU-Sponsoring-2019.pdf" target="_blank">Sponsoring-Dossier (PDF, 2.9 MB)</a>
-
-<a href="https://amgetu.ch/sponsoring/" target="_blank" class="btn btn-primary">Anmeldung Sponsoring</a>
+Wir bedanken uns bei all unseren Sponsoren, Inserenten und Gönnern! Sie ermöglichen diesen Anlass für die Jugend, die Turner und den Breitensport.
 
 <h2 class="h6 mt-5 font-weight-normal">Hauptsponsoren</h5>
 
@@ -116,3 +112,14 @@ Damit der Anlass auch im nächsten Jahr wieder ein voller Erfolg wird, sind wir
     <img src="/img/sponsoring/zebra.png" width="200" height="100" class="img-fluid">
   </a>
 </div>
+
+<br/>
+<br/>
+
+---
+
+<br/>
+
+Im Sponsoring-Dossier finden sich detaillierte Informationen über den Anlass und die attraktiven Werbemöglichkeiten.
+
+<a href="/docs/AMGETU-Sponsoring-2019.pdf" target="_blank">Sponsoring-Dossier (PDF, 2.9 MB)</a>
