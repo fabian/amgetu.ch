@@ -57,6 +57,9 @@ Wir bedanken uns bei all unseren Sponsoren, Inserenten und Gönnern! Sie ermögl
   <a href="http://www.calmart.ch/" target="_blank" class="d-inline-block mr-4 mb-3">
     <img src="/img/sponsoring/calmart.png" width="200" height="100" class="img-fluid">
   </a>
+  <a href="http://chäslade.ch/" target="_blank" class="d-inline-block mr-4 mb-3">
+    <img src="/img/sponsoring/chaeslade.png" width="200" height="100" class="img-fluid">
+  </a>
   <a href="https://egloff-gartendesign.ch/" target="_blank" class="d-inline-block mr-4 mb-3">
     <img src="/img/sponsoring/egloff.png" width="200" height="100" class="img-fluid">
   </a>
