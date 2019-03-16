@@ -5,7 +5,7 @@ services:
     build:
       context: .
       target: build
-    command: npm run watch
+    command: npm ci && npm run watch
     volumes:
       - .:/root/
   web:
