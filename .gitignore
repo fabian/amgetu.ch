@@ -1,4 +1,5 @@
 /.config/
+/.npm/
 /.sass-cache/
 /node_modules/
 /resources/
