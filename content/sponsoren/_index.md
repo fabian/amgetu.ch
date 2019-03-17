@@ -117,6 +117,9 @@ Wir bedanken uns bei all unseren Sponsoren, Inserenten und Gönnern! Sie ermögl
   <a href="https://www.schuppisser.ch/" target="_blank" class="d-inline-block mr-4 mb-3">
     <img src="/img/sponsoring/schuppisser.png" width="200" height="100" class="img-fluid">
   </a>
+  <a href="https://www.werkplatzschweizer.ch/" target="_blank" class="d-inline-block mr-4 mb-3">
+    <img src="/img/sponsoring/werkplatzschweizer.png" width="200" height="100" class="img-fluid">
+  </a>
     <a href="https://www.velo-franz.ch/" target="_blank" class="d-inline-block mr-4 mb-3">
       <img src="/img/sponsoring/velofranz.png" width="200" height="100" class="img-fluid">
     </a>
