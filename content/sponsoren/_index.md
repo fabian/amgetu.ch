@@ -78,6 +78,9 @@ Wir bedanken uns bei all unseren Sponsoren, Inserenten und Gönnern! Sie ermögl
   <a href="https://www.h2b.ch/" target="_blank" class="d-inline-block mr-4 mb-3">
     <img src="/img/sponsoring/h2b.png" width="200" height="100" class="img-fluid">
   </a>
+  <a href="http://www.maler-keller.ch/" target="_blank" class="d-inline-block mr-4 mb-3">
+    <img src="/img/sponsoring/keller.jpg" width="200" height="100" class="img-fluid">
+  </a>
   <a href="https://renault-mueller.ch/" target="_blank" class="d-inline-block mr-4 mb-3">
     <img src="/img/sponsoring/danielmueller.jpg" width="200" height="100" class="img-fluid">
   </a>

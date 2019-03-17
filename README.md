@@ -15,3 +15,9 @@ Copy the logo the folder _sponsoring_, rename it and then run:
 ```
 bin/resize-sponsoring.js
 ```
+
+## Build without docker
+```
+npm run build
+hugo server
+```
