@@ -63,7 +63,7 @@ Wir bedanken uns bei all unseren Sponsoren, Inserenten und Gönnern! Sie ermögl
   <a href="https://egloff-gartendesign.ch/" target="_blank" class="d-inline-block mr-4 mb-3">
     <img src="/img/sponsoring/egloff.png" width="200" height="100" class="img-fluid">
   </a>
-  <a href="http://www.filexis.ch/" target="_blank" class="d-inline-block mr-4 mb-3">
+  <a href="https://www.filexis.ch/" target="_blank" class="d-inline-block mr-4 mb-3">
     <img src="/img/sponsoring/filexis.png" width="200" height="100" class="img-fluid">
   </a>
   <a href="http://www.dachbaugehring.ch/" target="_blank" class="d-inline-block mr-4 mb-3">
@@ -87,6 +87,9 @@ Wir bedanken uns bei all unseren Sponsoren, Inserenten und Gönnern! Sie ermögl
   <a href="http://elektro-imboden.ch/" target="_blank" class="d-inline-block mr-4 mb-3">
     <img src="/img/sponsoring/imboden.png" width="200" height="100" class="img-fluid">
   </a>
+  <a href="http://www.huserholz.ch/" target="_blank" class="d-inline-block mr-4 mb-3">
+    <img src="/img/sponsoring/huser_logo.png" width="200" height="100" class="img-fluid">
+  </a>
   <a href="http://insideshop.ch/" target="_blank" class="d-inline-block mr-4 mb-3">
     <img src="/img/sponsoring/inside.png" width="200" height="100" class="img-fluid">
   </a>
@@ -101,6 +104,9 @@ Wir bedanken uns bei all unseren Sponsoren, Inserenten und Gönnern! Sie ermögl
   </a>
   <a href="https://www.shapeandcolor.ch" target="_blank" class="d-inline-block mr-4 mb-3">
     <img src="/img/sponsoring/motsch.png" width="200" height="100" class="img-fluid">
+  </a>
+  <a href="http://restaurant-zurpost.ch" target="_blank" class="d-inline-block mr-4 mb-3">
+    <img src="/img/sponsoring/restpost.png" width="200" height="100" class="img-fluid">
   </a>
   <a href="http://www.thermog.ch/" target="_blank" class="d-inline-block mr-4 mb-3">
     <img src="/img/sponsoring/thermog.png" width="200" height="100" class="img-fluid">
