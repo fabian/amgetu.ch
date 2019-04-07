@@ -81,6 +81,9 @@ Wir bedanken uns bei all unseren Sponsoren, Inserenten und Gönnern! Sie ermögl
   <a href="http://www.maler-keller.ch/" target="_blank" class="d-inline-block mr-4 mb-3">
     <img src="/img/sponsoring/keller.jpg" width="200" height="100" class="img-fluid">
   </a>
+  <a href="http://www.gesundheitshaus-meier.ch/" target="_blank" class="d-inline-block mr-4 mb-3">
+    <img src="/img/sponsoring/drogerie_meier.png" width="200" height="100" class="img-fluid">
+  </a>
   <a href="https://renault-mueller.ch/" target="_blank" class="d-inline-block mr-4 mb-3">
     <img src="/img/sponsoring/danielmueller.jpg" width="200" height="100" class="img-fluid">
   </a>
@@ -134,6 +137,9 @@ Wir bedanken uns bei all unseren Sponsoren, Inserenten und Gönnern! Sie ermögl
   </a>
   <a href="https://www.zebragartenbau.ch" target="_blank" class="d-inline-block mr-4 mb-3">
     <img src="/img/sponsoring/zebra.png" width="200" height="100" class="img-fluid">
+  </a>
+  <a href="https://zehnderbau.ch/" target="_blank" class="d-inline-block mr-4 mb-3">
+    <img src="/img/sponsoring/Zehnder_Logo_schwarz.png" width="200" height="100" class="img-fluid">
   </a>
 </div>
 
