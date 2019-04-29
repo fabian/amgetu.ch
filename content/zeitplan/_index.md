@@ -4,6 +4,8 @@ title: Zeitplan
 
 # Zeitplan
 
+Detailierte Informationen inkl. Riegeneinteilungen im <a href="/docs/AMGETU-Festfuehrer-2019.pdf" target="_blank">Festführer (PDF, 5.1 MB)</a>.
+
 ## Samstag, 18. Mai 2019
 
 <br/>
