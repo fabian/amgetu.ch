@@ -42,6 +42,9 @@ Wir bedanken uns bei all unseren Sponsoren, Inserenten und Gönnern! Sie ermögl
   <a href="http://www.aargauer-turnverband.ch/partner/turnveteranen.html" target="_blank" class="d-inline-block mr-4 mb-3">
     <img src="/img/sponsoring/atvv.png" width="300" height="150" class="img-fluid">
   </a>
+  <a href="https://www.chaemimetzg.ch/" target="_blank" class="d-inline-block mr-4 mb-3">
+    <img src="/img/sponsoring/chaemi.png" width="300" height="150" class="img-fluid">
+  </a>
 </div>
 
 
