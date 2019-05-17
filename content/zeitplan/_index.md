@@ -19,7 +19,7 @@ Detailierte Informationen inkl. Riegeneinteilungen im <a href="/docs/AMGETU-Fest
 <div class="row timetable-entry"><div class="col-2 col-sm-1"> 15:15 </div><div class="col-8"> Wettkampfbeginn K3.1</div></div>
 <div class="row timetable-entry"><div class="col-2 col-sm-1"> 15:35 </div><div class="col-8"> Rangverkündigung K2</div></div>
 <div class="row timetable-entry"><div class="col-2 col-sm-1"> 17:00 </div><div class="col-8"> Wettkampfbeginn K3.2</div></div>
-<div class="row timetable-entry"><div class="col-2 col-sm-1"> 18:45 </div><div class="col-8"> Rangverkündigung K2&nbsp;/&nbsp;K3</div></div>
+<div class="row timetable-entry"><div class="col-2 col-sm-1"> 18:45 </div><div class="col-8"> Rangverkündigung K3</div></div>
 
 _Besammlung jeweils 5 Minuten vor Wettkampfbeginn._
 
