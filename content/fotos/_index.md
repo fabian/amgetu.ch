@@ -4,7 +4,7 @@ title: Fotos
 
 # Fotos
 
-Impressionen vom Wettkampf.
+Impressionen vom ersten Wettkampftag.
 
 <div class="card-columns">
   <div class="card">
