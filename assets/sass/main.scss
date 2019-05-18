@@ -52,6 +52,10 @@ p {
   line-height: 1.2;
 }
 
+.btn-outline-light:hover {
+  color: $primary;
+}
+
 footer {
   background-color: $light;
 }
@@ -63,22 +67,6 @@ footer {
 
   a {
     color: $white;
-
-    &.button {
-      display: inline-block;
-      border: 1px solid $white;
-      padding: .375rem .75rem;
-      font-size: 1rem;
-      line-height: 1.5;
-      border-radius: .25rem;
-
-      &:hover {
-        text-decoration: none;
-        color: $primary;
-        background-color: $white;
-        border-color: $white;
-      }
-    }
   }
 
   .navbar {
