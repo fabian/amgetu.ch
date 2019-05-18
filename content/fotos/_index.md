@@ -8,6 +8,24 @@ Impressionen vom Wettkampf.
 
 <div class="card-columns">
   <div class="card">
+    <img class="card-img" src="/img/AMGETU_2019-67.jpg" alt="">
+  </div>
+  <div class="card">
+    <img class="card-img" src="/img/AMGETU_2019-65.jpg" alt="">
+  </div>
+  <div class="card">
+    <img class="card-img" src="/img/AMGETU_2019-63.jpg" alt="">
+  </div>
+  <div class="card">
+    <img class="card-img" src="/img/AMGETU_2019-59.jpg" alt="">
+  </div>
+  <div class="card">
+    <img class="card-img" src="/img/AMGETU_2019-52.jpg" alt="">
+  </div>
+  <div class="card">
+    <img class="card-img" src="/img/AMGETU_2019-19.jpg" alt="">
+  </div>
+  <div class="card">
     <img class="card-img" src="/img/_MG_5236.jpg" alt="">
   </div>
   <div class="card">
