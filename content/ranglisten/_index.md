@@ -4,9 +4,9 @@ title: Ranglisten
 
 # Ranglisten
 
-Die Ranglisten werden hier nach dem Wettkampf als PDFs veröffentlicht.
+Die Ranglisten werden hier jeweils direkt nach der Rangverkündigung als PDFs veröffentlicht.
 
-Rangliste K1\
+<a href="/docs/Rangliste-K1.pdf" target="_blank">Rangliste K1 (PDF, 238 KB)</a>\
 Rangliste K2\
 Rangliste K3\
 Rangliste K4\
