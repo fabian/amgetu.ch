@@ -8,6 +8,15 @@ Impressionen vom ersten Wettkampftag.
 
 <div class="card-columns">
   <div class="card">
+    <img class="card-img" src="/img/_MG_5859.jpg" alt="">
+  </div>
+  <div class="card">
+    <img class="card-img" src="/img/AMGETU_2019-157.jpg" alt="">
+  </div>
+  <div class="card">
+    <img class="card-img" src="/img/AMGETU_2019-158.jpg" alt="">
+  </div>
+  <div class="card">
     <img class="card-img" src="/img/AMGETU_2019-147.jpg" alt="">
   </div>
   <div class="card">
