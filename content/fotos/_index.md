@@ -4,7 +4,34 @@ title: Fotos
 
 # Fotos
 
-Impressionen vom ersten Wettkampftag.
+Impressionen von den zwei Wettkampftagen.
+
+## Sonntag
+
+<div class="card-columns">
+  <div class="card">
+    <img class="card-img" src="/img/_MG_6017.jpg" alt="">
+  </div>
+  <div class="card">
+    <img class="card-img" src="/img/_MG_6016.jpg" alt="">
+  </div>
+  <div class="card">
+    <img class="card-img" src="/img/_MG_5984.jpg" alt="">
+  </div>
+  <div class="card">
+    <img class="card-img" src="/img/_MG_5935.jpg" alt="">
+  </div>
+  <div class="card">
+    <img class="card-img" src="/img/_MG_5928.jpg" alt="">
+  </div>
+  <div class="card">
+    <img class="card-img" src="/img/_MG_5898.jpg" alt="">
+  </div>
+</div>
+
+---
+
+## Samstag
 
 <div class="card-columns">
   <div class="card">
