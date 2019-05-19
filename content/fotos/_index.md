@@ -10,6 +10,39 @@ Impressionen von den zwei Wettkampftagen.
 
 <div class="card-columns">
   <div class="card">
+    <img class="card-img" src="/img/AMGETU_2019-268.jpg" alt="">
+  </div>
+  <div class="card">
+    <img class="card-img" src="/img/AMGETU_2019-260.jpg" alt="">
+  </div>
+  <div class="card">
+    <img class="card-img" src="/img/AMGETU_2019-241.jpg" alt="">
+  </div>
+  <div class="card">
+    <img class="card-img" src="/img/AMGETU_2019-235.jpg" alt="">
+  </div>
+  <div class="card">
+    <img class="card-img" src="/img/AMGETU_2019-227.jpg" alt="">
+  </div>
+  <div class="card">
+    <img class="card-img" src="/img/AMGETU_2019-215.jpg" alt="">
+  </div>
+  <div class="card">
+    <img class="card-img" src="/img/AMGETU_2019-212.jpg" alt="">
+  </div>
+  <div class="card">
+    <img class="card-img" src="/img/AMGETU_2019-190.jpg" alt="">
+  </div>
+  <div class="card">
+    <img class="card-img" src="/img/_MG_6387.jpg" alt="">
+  </div>
+  <div class="card">
+    <img class="card-img" src="/img/_MG_6270.jpg" alt="">
+  </div>
+  <div class="card">
+    <img class="card-img" src="/img/_MG_6264.jpg" alt="">
+  </div>
+  <div class="card">
     <img class="card-img" src="/img/AMGETU_2019-183.jpg" alt="">
   </div>
   <div class="card">
