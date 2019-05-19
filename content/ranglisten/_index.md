@@ -13,3 +13,5 @@ Die Ranglisten werden hier jeweils direkt nach der Rangverkündigung als PDFs v
 <a class="btn btn-outline-primary" href="/docs/Rangliste-K3.pdf" target="_blank">Rangliste K3 (PDF, 294 KB)</a>
 
 <a class="btn btn-outline-primary" href="/docs/Rangliste-K4.pdf" target="_blank">Rangliste K4 (PDF, 388 KB)</a>
+
+<a class="btn btn-outline-primary" href="/docs/Rangliste-K5.pdf" target="_blank">Rangliste K5 (PDF, 263 KB)</a>
