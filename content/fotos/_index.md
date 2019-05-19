@@ -10,6 +10,15 @@ Impressionen von den zwei Wettkampftagen.
 
 <div class="card-columns">
   <div class="card">
+    <img class="card-img" src="/img/AMGETU_2019-183.jpg" alt="">
+  </div>
+  <div class="card">
+    <img class="card-img" src="/img/_MG_6111.jpg" alt="">
+  </div>
+  <div class="card">
+    <img class="card-img" src="/img/_MG_6090.jpg" alt="">
+  </div>
+  <div class="card">
     <img class="card-img" src="/img/_MG_6017.jpg" alt="">
   </div>
   <div class="card">
