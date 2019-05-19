@@ -10,6 +10,33 @@ Impressionen von den zwei Wettkampftagen.
 
 <div class="card-columns">
   <div class="card">
+    <img class="card-img" src="/img/DSC06944.jpg" alt="">
+  </div>
+  <div class="card">
+    <img class="card-img" src="/img/AMGETU_2019-302.jpg" alt="">
+  </div>
+  <div class="card">
+    <img class="card-img" src="/img/AMGETU_2019-300.jpg" alt="">
+  </div>
+  <div class="card">
+    <img class="card-img" src="/img/AMGETU_2019-298.jpg" alt="">
+  </div>
+  <div class="card">
+    <img class="card-img" src="/img/AMGETU_2019-283.jpg" alt="">
+  </div>
+  <div class="card">
+    <img class="card-img" src="/img/AMGETU_2019-273.jpg" alt="">
+  </div>
+  <div class="card">
+    <img class="card-img" src="/img/AMGETU_2019-271.jpg" alt="">
+  </div>
+  <div class="card">
+    <img class="card-img" src="/img/AMGETU_2019-270.jpg" alt="">
+  </div>
+  <div class="card">
+    <img class="card-img" src="/img/AMGETU_2019-269.jpg" alt="">
+  </div>
+  <div class="card">
     <img class="card-img" src="/img/AMGETU_2019-268.jpg" alt="">
   </div>
   <div class="card">
