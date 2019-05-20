@@ -4,7 +4,7 @@ title: Fotos
 
 # Fotos
 
-Impressionen von den zwei Wettkampftagen.
+Impressionen von den zwei Wettkampftagen. <a href="https://tvniederrohrdorf.ch/fotos/2019/5/amgetu-2019/" target="_blank">Alles Fotos vom Wochenende</a>.
 
 ## Sonntag
 
