@@ -63,7 +63,10 @@ footer {
 .page-kind-home {
   background-color: $primary;
   color: $white;
-  margin-top: $spacer * 3;
+
+  main {
+    margin-top: $spacer * 3;
+  }
 
   a {
     color: $white;
